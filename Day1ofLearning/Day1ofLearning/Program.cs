@@ -87,7 +87,7 @@ class Program
         try
         {
             // Compiles fine, fails at runtime
-            value = value.ToUpper();
+            //value = value.ToUpper();
         }
         catch (Microsoft.CSharp.RuntimeBinder.RuntimeBinderException ex)
         {
