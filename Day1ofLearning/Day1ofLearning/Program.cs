@@ -90,7 +90,7 @@ class Program
             //value = value.ToUpper();
             value = value + 10;
         }
-        catch (Microsoft.CSharp.RuntimeBinder.RuntimeBinderException ex)
+        catch (Exception ex)
         {
             Console.WriteLine("Runtime error using dynamic:");
             Console.WriteLine(ex.Message);
