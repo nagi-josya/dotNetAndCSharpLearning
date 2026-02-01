@@ -1,0 +1,6 @@
+@Day80fLearning_HostAddress = http://localhost:5089
+
+GET {{Day80fLearning_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
