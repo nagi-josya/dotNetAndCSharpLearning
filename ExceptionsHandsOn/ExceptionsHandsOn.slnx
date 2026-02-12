@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EnterpriseExceptionDemo.Application/ExceptionsHandsOn.Application.csproj" />
+  <Project Path="ExceptionsHandsOn.Domain/ExceptionsHandsOn.Domain.csproj" />
+  <Project Path="ExceptionsHandsON.Infrastructure/ExceptionsHandsOn.Infrastructure.csproj" />
+  <Project Path="ExceptionsHandsOn/ExceptionsHandsOn.Api.csproj" />
+</Solution>
